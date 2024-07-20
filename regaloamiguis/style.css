@@ -1,0 +1,51 @@
+
+body {
+    background-color: #f2f8ff;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+
+#modal-codigo {
+    background-color: #e1fafe;
+    padding: 40px;
+    border-radius: 5px;
+    margin: 50px auto;
+    max-width: 300px;
+    text-align: center;
+}
+
+#modal-codigo h2 {
+    color: #3399ff;
+}
+
+#modal-codigo input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+#modal-codigo button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#contenedor-imagen {
+    width: 300px;
+    height: 200px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+#contenedor-imagen img {
+    width: 140%;
+    height: 140%;
+}
